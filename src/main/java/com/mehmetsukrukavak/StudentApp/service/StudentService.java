@@ -1,4 +1,4 @@
-package com.mehmetsukrukavak.StudentApp;
+package com.mehmetsukrukavak.StudentApp.service;
 
 import com.mehmetsukrukavak.StudentApp.model.Student;
 import com.mehmetsukrukavak.StudentApp.repository.StudentRepository;
